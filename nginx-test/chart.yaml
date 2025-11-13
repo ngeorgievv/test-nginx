@@ -1,5 +1,0 @@
-apiVersion: v2
-name: nginx-test
-description: A lightweight NGINX Helm chart for Fleet testing
-version: 0.1.0
-appVersion: "1.25.3"

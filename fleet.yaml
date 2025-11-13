@@ -1,3 +1,0 @@
-defaultNamespace: nginx-test
-helm:
-  chart: ./nginx-test
